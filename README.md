@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project [![Website shields.io]
+
+Simple react cart writen with TypeScript
+
+Fetching products from fake API, display it, add to cart, remove, display and other things related to every cart 
+
+## Technologies
+  - React JS
+  - TypeScript
+  - StyledComponents
+  - React-Query
+
 ## Available Scripts
 
 In the project directory, you can run:
